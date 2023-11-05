@@ -1,4 +1,6 @@
 Rincian skill Front end-nya
 - bisa framework css
+  -tainwil
+  -bootstrab
 - bisa framework JS
 -paham git dan github ini
