@@ -1,0 +1,4 @@
+Rincian skill Front end-nya
+- bisa framework css
+- bisa framework JS
+-paham git dan github ini
